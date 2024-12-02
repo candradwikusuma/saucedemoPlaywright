@@ -19,7 +19,7 @@ First, update npm
 npm install -g npm@10.9.1
 ```
 
-Then, install qa-backend-mocha
+Then, install SauceDemo
 
 ```bash
 git clone https://github.com/candradwikusuma/saucedemoPlaywright.git
