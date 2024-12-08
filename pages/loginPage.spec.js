@@ -14,7 +14,7 @@ class LoginPage {
   }
 
   async getErrorMessage() {
-    return this.errorMessage.innerText();
+    return await this.errorMessage.innerText();
   }
 }
 
